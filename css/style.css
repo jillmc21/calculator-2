@@ -1,0 +1,71 @@
+.container {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    border: black 2px solid;
+    margin: auto;
+    width: 300px;
+    padding: 10px;
+}
+
+.row-1 {
+    display: flex;
+    margin: 0 500px;
+    
+}
+
+.row-2 {
+    display: flex;
+    margin: 0 500px;
+}
+
+.row-3 {
+    display: flex;
+    margin: 0 500px;
+}
+
+.row-4 {
+    display: flex;
+    margin: 0 500px;
+}
+
+.row-5 {
+    display: flex;
+    margin: 0 500px;
+}
+
+.row-6 {
+    display: flex;
+    margin: 0 500px;
+}
+
+.number {
+    border: black 2px solid;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+}
+
+.operator {
+    border: black 2px solid;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+}
+
+.clear {
+    border: black 2px solid;
+    width: 130px;
+    height: 60px;
+    margin: 5px;
+}
+
+
+.display {
+    border: black 2px solid;
+    width: 265px;
+    height: 60px;
+    margin: 5px;
+    text-align: right;
+}
